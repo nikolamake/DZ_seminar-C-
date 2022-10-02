@@ -50,9 +50,10 @@ return MaxValue;
 
 } 
 
+int[] array = RandomArray(N, M, T);
 
-int maximum = SearchMax(RandomArray(N, M, T)); 
+int maximum = SearchMax(array); 
 
-Console.WriteLine($"Массив из {T} случайных элементов: [ " + String.Join(", ",RandomArray(N, M, T)) + " ]");
+Console.WriteLine($"Массив из {T} случайных элементов: [ " + String.Join(", ",array) + " ]");
 
 Console.WriteLine($"Максимальное значение в массиве {maximum}");

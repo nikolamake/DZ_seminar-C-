@@ -1,0 +1,15 @@
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\obj\Debug\net6.0\Задача36.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\obj\Debug\net6.0\Задача36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\obj\Debug\net6.0\Задача36.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\obj\Debug\net6.0\Задача36.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\obj\Debug\net6.0\Задача36.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\bin\Debug\net6.0\Задача36.exe
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\bin\Debug\net6.0\Задача36.deps.json
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\bin\Debug\net6.0\Задача36.runtimeconfig.json
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\bin\Debug\net6.0\Задача36.dll
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\bin\Debug\net6.0\Задача36.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\obj\Debug\net6.0\Задача36.dll
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\obj\Debug\net6.0\refint\Задача36.dll
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\obj\Debug\net6.0\Задача36.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\obj\Debug\net6.0\Задача36.genruntimeconfig.cache
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Задача36\obj\Debug\net6.0\ref\Задача36.dll
