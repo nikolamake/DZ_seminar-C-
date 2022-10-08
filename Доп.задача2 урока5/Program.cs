@@ -24,43 +24,43 @@ int T = int.Parse(Console.ReadLine());
 
 double[] RandomArray(int lower, int upper, int quantity) // массив от lower до upper в количестве qantity
 {
-double[] random = new double[quantity];
+    double[] random = new double[quantity];
 
     for (int i = 0; i < quantity; i++)
     {
         random[i] = Math.Round((new Random().NextDouble() * (upper - lower) + lower), 3);
     }
 
-return random;
+    return random;
 }
 
 double[] array = RandomArray(N, M, T);
 
-Console.WriteLine($"Массив из {T} случайных вещественных чисел от {N} до {M}: [ " + String.Join("  ",array) + " ]");
+Console.WriteLine($"Массив из {T} случайных вещественных чисел от {N} до {M}: [ " + String.Join("  ", array) + " ]");
 
 
 
 void Sorting(double[] array)
 {
 
-for (int i = 0; i < array.Length - 1; i = i + 3)
-{
-  
-double A = array[i + 1];
+    for (int i = 0; i < array.Length - 1; i = i + 3)
+    {
 
-double B = array[i];
+        double A = array[i + 1];
 
-double C = array[i + 2];
+        double B = array[i];
 
-if(A == B && A == C) Console.WriteLine("Все числа массива равны.");
+        double C = array[i + 2];
 
-else 
-    if(B < A && A < C) Console.WriteLine("Числа массива возврастают");
+        if (A == B && A == C) Console.WriteLine("Все числа массива равны.");
 
-    else if(B > A && A > C) Console.WriteLine("Числа массива убывают");
+        else
+            if (B < A && A < C) Console.WriteLine("Числа массива возврастают");
 
-    else Console.WriteLine("Числа массива расположены хаотично");
-}
+        else if (B > A && A > C) Console.WriteLine("Числа массива убывают");
+
+        else Console.WriteLine("Числа массива расположены хаотично");
+    }
 }
 Sorting(array);
 

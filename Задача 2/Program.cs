@@ -11,13 +11,13 @@ Console.Write("Введите второе число: ");
 
 double number2 = double.Parse(Console.ReadLine());
 
-if(number1 != number2)
-    {
-        if(number1 > number2)
+if (number1 != number2)
+{
+    if (number1 > number2)
 
-            Console.WriteLine($"Наибольшее число: {number1} наименьшее число: {number2} ");
-        else
-            Console.WriteLine($"Наибольшее число: {number2} наименьшее число: {number1} ");    
-    }
+        Console.WriteLine($"Наибольшее число: {number1} наименьшее число: {number2} ");
+    else
+        Console.WriteLine($"Наибольшее число: {number2} наименьшее число: {number1} ");
+}
 else
     Console.WriteLine($"Первое число равно второму равно: {number2} ");

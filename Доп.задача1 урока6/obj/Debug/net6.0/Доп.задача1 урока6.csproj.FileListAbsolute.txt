@@ -1,0 +1,15 @@
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\bin\Debug\net6.0\Доп.задача1 урока6.exe
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\bin\Debug\net6.0\Доп.задача1 урока6.deps.json
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\bin\Debug\net6.0\Доп.задача1 урока6.runtimeconfig.json
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\bin\Debug\net6.0\Доп.задача1 урока6.dll
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\bin\Debug\net6.0\Доп.задача1 урока6.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\obj\Debug\net6.0\Доп.задача1 урока6.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\obj\Debug\net6.0\Доп.задача1 урока6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\obj\Debug\net6.0\Доп.задача1 урока6.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\obj\Debug\net6.0\Доп.задача1 урока6.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\obj\Debug\net6.0\Доп.задача1 урока6.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\obj\Debug\net6.0\Доп.задача1 урока6.dll
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\obj\Debug\net6.0\refint\Доп.задача1 урока6.dll
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\obj\Debug\net6.0\Доп.задача1 урока6.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\obj\Debug\net6.0\Доп.задача1 урока6.genruntimeconfig.cache
+C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Знакомство с языком программирования С#\Семинары\DZ\Урок1\Доп.задача1 урока6\obj\Debug\net6.0\ref\Доп.задача1 урока6.dll
