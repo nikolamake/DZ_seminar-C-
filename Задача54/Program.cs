@@ -1,11 +1,13 @@
-﻿// Задача 52. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+﻿// Задача 54: Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию 
+// элементы каждой строки двумерного массива.
 // Например, задан массив:
 // 1 4 7 2
 // 5 9 2 3
 // 8 4 2 4
-// Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
-
-
+// В итоге получается вот такой массив:
+// 7 4 2 1
+// 9 5 3 2
+// 8 4 4 2
 Console.Clear();
 
 Console.WriteLine("Введите количество строк двумерного массива");
@@ -24,25 +26,13 @@ int maxMeaning = int.Parse(Console.ReadLine());
 
 int[,] array = FillArray(rowCount, columnCount, minMeaning, maxMeaning);
 
+Console.WriteLine("Исходный массив");
 PrintArray(array);
 
-AverageColumn(array);
+Console.WriteLine("Массив  по убыванию элементов в строке");
+PrintArray(SortingReduction(array));
 
-void AverageColumn(int[,] workerArray)
-{
-    double sum = 0;
-    for (int i = 0; i < workerArray.GetLength(1); i++)
 
-    {
-        for (int j = 0; j < workerArray.GetLength(0); j++)
-        {
-            sum = Math.Round((sum + workerArray[j, i]), 2);
-        }
-        double averageSum = sum / workerArray.GetLength(0);
-        Console.WriteLine($"Среднее арифметическое значение в столбце равняется {averageSum} ");
-        sum = 0;
-    }
-}
 
 int[,] FillArray(int rows, int columns, int min, int max)
 {
@@ -69,3 +59,34 @@ void PrintArray(int[,] inputArray)
         Console.WriteLine();
     }
 }
+
+int[,] SortingReduction(int[,] sourceArray)
+
+{
+    for (int i = 0; i < sourceArray.GetLength(0); i++)
+    {
+        for (int j = 0; j < sourceArray.GetLength(1); j++)
+        {
+            for (int k = 0; k < sourceArray.GetLength(1) - 1; k++)
+                if (sourceArray[i, k] < sourceArray[i, k + 1])
+                {
+                    int temp = sourceArray[i, k + 1];
+                    sourceArray[i, k + 1] = sourceArray[i, k];
+                    sourceArray[i, k] = temp;
+                }
+        }
+
+    }
+    return sourceArray;
+}
+
+
+
+
+
+
+
+
+
+
+
